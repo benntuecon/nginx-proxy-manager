@@ -1,0 +1,16 @@
+{
+  "database": {
+    "engine": "knex-native",
+    "knex": {
+      "client": "sqlite3",
+      "connection": {
+        "filename": "/data/database.sqlite"
+      },
+      "useNullAsDefault": true
+    }
+  },
+  "jwt": {
+    "key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAinr+1ZDvCn+YN46rl3ZLna3wQLUlYgDsNz/UcUJGxArOVRDE\nrv2GDHwxtjfS3bVcYGpkGXEQW26hE1+DvGOlp+4Ic2lwB/RCj3E/rma/wBB4z07B\nmRevaCMHPWonAXQIh6nyXhDEeD3R9pRwaGt0WcVIPFcREAEJhYQ2mtiYmEVvu6rJ\n2Z3ct1F4HRdX+9Iizu6gL48PUpyK0EeQHrlhmqjo3CreX3TwMyPG9tXbCUlEK8hJ\nQ82vgZmbMtDG7g/1zFowODuo5wzdRwOZkGZ1O81H9hb97IkpOik/T0eAPl7MYOJU\nFN0ceKWoQWqzWUQhGczDXz1BNDH2nzUnLtjd+wIDAQABAoIBADEV08pjqzdvbscS\nnSP83GSxyN1G2E9awF/9EhJrSaYnpmdkoDLezmsSgpRySR4pMOtECuMxvniKSDIT\nwyA9ufRCXWB7WSiYnhc2LzpkVUeBDzF8Wwcm7Bffgqt0Ows60+MyjCRnkRyF3Syo\nBQgePomrciVhPz0LARMAgFJ2v/AI9frYxQ2cdg76ebSoWY3VwpO3OK8AOmheXnpx\nbhxyboXh65Z7QTwDv5U27hFRnFXal8VF0uNwccgWvnqkPu+0SLx5s32FSkroBPO7\nMyVgjXDXiAQuZYwyN0dgqHHyKhiz+l+qHqx0XZzE2fUEDRcMUi6ThIRHv4FeMN97\nn+i2ooECgYEA2LbNdPpMLVbS5R6ljxDaY5/MKIk8gZUUJf8lNCxBP6sJJyuJGCAe\nQrXsi1ll86bY5ZnUkr+XBe1sARv3H5or6tdySwv7EUpzL9eaB0WvYj8OS9yAdZ+5\nIYiM1aaXX1wsUVTmVwQewCqWDbTEiXrWWvUEzmyqmMM/atHK9RYyhOECgYEAo5WN\nTb/DMnUvPja8NpEuthCtS74duqyeg1snEdk0dShJAtv0RmYTLBQ1lnaKDDKwZq64\nIsPq9kYVPa4sC6gMxMsiZBcmpxT7XMUU/hXdjD0SScu26bC5gq8fASLq7pPi+AUr\nG3mUIVsxJCvp05zG2RatsdCEd13oZ6M5UQ814lsCgYAp1Wfl2+dWnTsKxZa5/kva\nDV/Qt2U5snh4OT+KSbyyuKaErC/Du3d78zhdUf2PQjb+Y2qYhWl22HUP5cEXlaBC\nriI/AGoP1WpU4u611qrbcUamOEOH8TRAl+Zv27++xcE8VgI86+uvtsjOjoWd8Ftu\npXuvCWUJJi+YxDTEiOtpoQKBgAgDKTqnq93q03eOosVhcxJD2tkc5MPh9Jmme1Fq\nfCFI6dqT/3D7SvEbxEwsXjKewPkmkapSQk3xvNSalVm0z3tMH9EbOS9x3aX7mT2g\nwIs/6odmzPzBRTTbcv9RQISTBcj0J9peqBzCJLQK2pcc1LiJXdSZzAM0vE9nNUV9\nIzyFAoGBAMTpiVpeFVNjUrujvWG5RoBIERhYdNf+ZYi6bu85lGOBKy6xXgyMZiRl\nofLULdXnoCXnAAw31q6vWSHtN7clNY9WNe4ymV/i9INSvgUp6s9+ccc+EF0QFYxp\nWvK3zhtfyWA1YxQiCWXGkQDUoF96A1rP7ewAwnvGrhSG5LzcvGdM\n-----END RSA PRIVATE KEY-----",
+    "pub": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAinr+1ZDvCn+YN46rl3ZL\nna3wQLUlYgDsNz/UcUJGxArOVRDErv2GDHwxtjfS3bVcYGpkGXEQW26hE1+DvGOl\np+4Ic2lwB/RCj3E/rma/wBB4z07BmRevaCMHPWonAXQIh6nyXhDEeD3R9pRwaGt0\nWcVIPFcREAEJhYQ2mtiYmEVvu6rJ2Z3ct1F4HRdX+9Iizu6gL48PUpyK0EeQHrlh\nmqjo3CreX3TwMyPG9tXbCUlEK8hJQ82vgZmbMtDG7g/1zFowODuo5wzdRwOZkGZ1\nO81H9hb97IkpOik/T0eAPl7MYOJUFN0ceKWoQWqzWUQhGczDXz1BNDH2nzUnLtjd\n+wIDAQAB\n-----END PUBLIC KEY-----"
+  }
+}
